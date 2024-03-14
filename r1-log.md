@@ -8,13 +8,13 @@ The log of my #100DaysOfCode challenge. Started on [March 9, 2024].
 
 ### R1D4
 
-#### Day 5: March 12, 2024
+## **Day 5: March 12, 2024**
 
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: I was able to rebase a repo from the github remote into my local copy that was not up to date.
 
-**Thoughts:** I used ChatGpt to help me with the correct git commmands. That made it really quick and easy to complete a task that I was nervous to attempt. I was afraid that I was going to mess up the work that I had already completed or make a duplicate copy that I would have to delete the old one. I tried merging first but that didn't work becasue it said that there were errors. I knew the remote version was the way I wanted the file to look and I wanted to start from there. I suppose there might be times when that is not the best action, especially when I'm not working solo. Anyhow, here's the code: Rebase:
+**Thoughts:** I used ChatGPT to help me with the correct git commmands. That made it really quick and easy to complete a task that I was nervous to attempt. I was afraid that I was going to mess up the work that I had already completed or make a duplicate copy that I would have to delete the old one. I tried merging first but that didn't work becasue it said that there were errors. I knew the remote version was the way I wanted the file to look and I wanted to start from there. I suppose there might be times when that is not the best action, especially when I'm not working solo. Anyhow, here's the code: Rebase:
 If you prefer to rebase your changes on top of the latest commits from the remote branch, you can run:
 
 ```
@@ -29,7 +29,7 @@ git rebase origin/main
 
 ### R1D3
 
-#### Day 2: March 11, 2024
+## **Day 2: March 11, 2024**
 
 <!-- ##### (delete me or comment me out) -->
 
@@ -48,7 +48,7 @@ git rebase origin/main
 
 ### R1D2
 
-#### Day 1: March 10, 2024
+## **Day 1: March 10, 2024**
 
 <!-- ##### (delete me or comment me out) -->
 
@@ -61,7 +61,7 @@ I practiced typing out js code and html. I remembered how to link in the head ta
 
 ### R1D1
 
-#### Day 0: March 9, 2024
+## **Day 0: March 9, 2024**
 
 <!-- ##### (delete me or comment me out) -->
 
