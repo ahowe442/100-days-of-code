@@ -6,9 +6,23 @@ The log of my #100DaysOfCode challenge. Started on [March 9, 2024].
 
 # 100 Days Of Code - Log
 
+### R1D5
+
+## **Day 4: March 13, 2024**
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: I used Javascript String methods to select the first letter of a string and change it's capitalization.
+
+**Thoughts:** I never considered using string literals to concatenate the new word, until today.
+
+**Link to work:** [All Activity on Github](https://github.com/ahowe442/Javascript-Sandbox/activity)
+
+---
+
 ### R1D4
 
-## **Day 5: March 12, 2024**
+## **Day 3: March 12, 2024**
 
 <!-- ##### (delete me or comment me out) -->
 
